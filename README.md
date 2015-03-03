@@ -123,7 +123,7 @@ character encoding.
 </html>
 ```
 
-### Performance
+###Performance
 
 Unless there's a valid reason for loading your scripts before your content, don't block the
 rendering of your page. If your style sheet is heavy, isolate the styles that are absolutely
